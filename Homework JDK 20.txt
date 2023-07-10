@@ -1,0 +1,31 @@
+            public class Main {
+            public static void main(String[] args) {
+
+            String text = "Hello";
+            System.out.println(text);
+            String text2 = ("Home work JDK20");
+            System.out.println(text2);
+
+            int number1 = 115;
+            int number2 = 60;
+            int number3 = number1 + number2;
+            int number4 = number1 - number2;
+            int number5 = number1 * number2;
+            int number6 = number1 / number2;
+
+            System.out.println(number3);
+            System.out.println(number4);
+            System.out.println(number5);
+            System.out.println(number6);
+
+  }
+
+"C:\Program Files\Java\jdk-20\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.3\lib\idea_rt.jar=53498:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Natalia\Home_Work_JDK20_10th_July\out\production\Home_Work_JDK20_10th_July Main
+Hello
+Home work JDK20
+175
+55
+6900
+1
+
+Process finished with exit code 0
