@@ -1,0 +1,32 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String text = "Hello";
+        System.out.println(text);
+        String text2 = "Homework JDK11";
+        System.out.println(text2);
+
+        int number1 = 350;
+        int number2 = 5;
+        int number3 = number1 + number2;
+        int number4 = number1 - number2;
+        int number5 = number1 * number2;
+        int number6 = number1 / number2;
+
+        System.out.println(number3);
+        System.out.println(number4);
+        System.out.println(number5);
+        System.out.println(number6);
+    }
+}
+
+C:\Users\Natalia\.jdks\corretto-11.0.19\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.3\lib\idea_rt.jar=54244:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Natalia\Homework_JDK11_10th_July\out\production\Homework_JDK11_10th_July Main
+Hello
+Homework JDK11
+355
+345
+1750
+70
+
+Process finished with exit code 0
+
